@@ -1,0 +1,1 @@
+This project uses machine learning to predict whether a bank customer will churn (leave the bank) and to identify which customer characteristics contribute most to churn. The analysis includes data preprocessing, exploratory data analysis, model training, and evaluation.
